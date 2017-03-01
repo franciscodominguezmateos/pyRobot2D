@@ -9,7 +9,7 @@ from math import pi
 from visual import vector
 from Maps import MapContinous
 from TinyGeometry.Line import Segment,Line
-from PySide import QtGui, QtCore
+from PyQt4 import QtGui, QtCore
 from Robots import Robot
 from Sensors import SensorLIDAR
 from Kinematics import KinematicTurtle,KinematicBicycle
